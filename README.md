@@ -19,7 +19,7 @@ python evidence_selection.py hotpot_dev_distractor_v1.json --out results
 
 ## 输出文件
 
-实验报告单独通过课程平台提交；下列文件由运行脚本生成。
+下列文件由运行脚本生成。
 - results/sample_ids.txt：100 道题的 _id（原始顺序）。
 - results/summary.csv：三种方法 × 三档预算共 9 组统计。
 - results/per_question.csv：900 条逐题评测结果。
